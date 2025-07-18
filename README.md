@@ -8,7 +8,7 @@ This project contains an Excel-based dashboard analyzing IPL match data. It incl
 
 ## File
 
-- `ipl match data 1.xlsx`: Main Excel file with the dashboard and raw data
+- `ipl match data Dashboard`: Main Excel file with the dashboard and raw data
 
 ## Tools Used
 
